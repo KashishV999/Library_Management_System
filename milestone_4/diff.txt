@@ -1,0 +1,14 @@
+In line number 24 of your output:
+The output should be:
+Date: 2024/13/17
+         ^
+But your output is: 
+Date: 2023/13/17
+         ^
+
+Unmatched character details:
+The character in column 10 is supposed to be:
+  [4] ASCII code(52)
+but you printed
+  [3] ASCII code(51)
+
