@@ -1,19 +1,3 @@
-/*
-Final Project Milestone 1
-Module: Menu
-Filename: Menu.h
-Version 1.0
-Author	Kashish Verma
-Revision History
------------------------------------------------------------
-Date      9 July 2024
-2024/07/06  Actual code completed: Development phase finished, and the main codebase is finalized.
-2024/07/08  Fully debugged: All known issues and bugs have been resolved,
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my workshops and assignments.
------------------------------------------------------------
------------------------------------------------------------*/
 
 
 #ifndef MENU_H
